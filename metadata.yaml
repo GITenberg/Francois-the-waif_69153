@@ -1,0 +1,49 @@
+_repo: Francois-the-waif_69153
+_version: 0.0.1
+contributor:
+  illustrator:
+    agent_name: Abot, Eugène-Michel-Joseph
+    aliases:
+    - Abot, Eugene-Michel-Joseph
+    - Abot, E. (Eugène)
+    birthdate: 1836
+    deathdate: 1894
+    gutenberg_agent_id: '25018'
+    url: http://www.gutenberg.org/2009/agents/25018
+  translator:
+    agent_name: Sedgwick, Jane Minot
+    gutenberg_agent_id: '25017'
+    url: http://www.gutenberg.org/2009/agents/25017
+creator:
+  author:
+    agent_name: Sand, George
+    aliases:
+    - Dupin, Amandine-Aurore-Lucile
+    - Dudevant, Amandine-Aurore-Lucile
+    - Dupin, Armandine Aurore Lucille
+    birthdate: 1804
+    deathdate: 1876
+    gutenberg_agent_id: '851'
+    url: http://www.gutenberg.org/2009/agents/851
+    wikipedia:
+    - https://en.wikipedia.org/wiki/George_Sand
+    - https://fr.wikipedia.org/wiki/George_Sand
+description: ''
+gutenberg_issued: '2022-10-14'
+identifiers:
+  gutenberg: '69153'
+language: en
+pgterms:marc904: https://catalog.hathitrust.org/Record/008672449
+pgterms:marc905: 20221005035438sand
+pgterms:marc906: '1894'
+pgterms:marc907: US
+production_note: Laura Natal Rodrigues (Images generously made available by Hathi
+  Trust Digital Library.)
+publication_note: 'United States: G. H. Richmond & co.,1894.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: François the waif
+url: http://www.gutenberg.org/ebooks/69153
