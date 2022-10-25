@@ -14,6 +14,9 @@ contributor:
     agent_name: Sedgwick, Jane Minot
     gutenberg_agent_id: '25017'
     url: http://www.gutenberg.org/2009/agents/25017
+covers:
+- cover_type: archival
+  image_path: 69153-h/images/champi_cover.jpg
 creator:
   author:
     agent_name: Sand, George
@@ -29,6 +32,8 @@ creator:
     - https://en.wikipedia.org/wiki/George_Sand
     - https://fr.wikipedia.org/wiki/George_Sand
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/69153#Francois-the-waif
 gutenberg_issued: '2022-10-14'
 identifiers:
   gutenberg: '69153'
